@@ -2,6 +2,7 @@
   "users": [
     { "id": 1, "username": "john", "password": "password1" },
     { "id": 2, "username": "jane", "password": "password2" },
-    { "id": 3, "username": "bob", "password": "password3" }
+    { "id": 3, "username": "bob", "password": "password3" },
+    { "id": 4, "username": "admin", "password": "123456" }
   ]
 }
